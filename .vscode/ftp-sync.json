@@ -1,0 +1,27 @@
+{
+    "remotePath": "./bnlslkzw/development.bnl-studio.com",
+    "host": "ftpes://bnl-studio.com",
+    "username": "dev@bnl-studio.com",
+    "password": "nick1969",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
