@@ -165,7 +165,7 @@ a {
 }
 
 a:hover {
-  color: #1B273F;
+  color: #d6b361;
   text-decoration: underline;
 }
 
@@ -4363,11 +4363,11 @@ input[type="button"].btn-block {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color:#f3f3f3;
+  color:#C3AE7C;
 }
 
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
-  color: #fff;
+  color: #dbb55d;
 }
 
 .navbar-light .navbar-nav .nav-link.disabled {
@@ -11247,7 +11247,7 @@ body.sidebar-toggled footer.sticky-footer {
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: contain; /* Resize the background image to cover the entire container */
 max-width: 320px;
-margin:  0 auto -50px;
+margin:   auto ;
 padding: 10px;
 }
 .carousel-item{
